@@ -2,6 +2,8 @@
 
 A full-stack blog management system built with .NET 8 Web API, Angular 19, and PostgreSQL, containerized with Docker.
 
+![Sequence Diagram](document/BlogPost_Sequence.svg)
+
 ## Project Structure
 
 - `Post_Management.API/` - Backend API built with .NET 8

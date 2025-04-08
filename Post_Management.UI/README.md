@@ -2,6 +2,8 @@
 
 Frontend application for the blog post management system built with Angular 19.
 
+![Sequence](document/sequence.svg)
+
 ## Features
 
 - Modern UI with Tailwind CSS
